@@ -1,0 +1,2 @@
+glock data/pistol2/pistol 1 15 32 1.7 -0.8 -2.5 0.0 -90.0 0.0 0.63 -0.4 -1.14 0.0 -90.0 0.0 1 10000 17 10 10 0 20 data/shot3.wav data/shot3.wav data/shot3.wav data/shot3.wav data/pistol2/pistol-out.obj
+ak47 data/ak473anim/ak47 1 16 49 0.58 -0.77 -1.74 0.0 -90.0 0.0 0.01 -0.67 -1.23 3.0 -90.0 0.0 1 10000 31 10 10 1 20 data/shot3.wav data/shot3.wav data/shot3.wav data/shot3.wav data/ak473anim/ak47-out.obj
